@@ -1,6 +1,5 @@
 # DesignLaboratoryEiT
 16.10.2022
-cout<<endl;
 W pierwszym tygodniu pracy nad projektem, zapoznaliśmy się z środowiskiem programistycznym oraz nowym dla nas CircuitPythonem.
 Posiłkowaliśmy się poniższym filmem w serwisie YouTube
 https://www.youtube.com/watch?v=opes_7Uf49U
